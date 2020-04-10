@@ -142,4 +142,13 @@
       <Name>Event-App</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\driessenlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\driessenlogo%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\driessenlogo%403x.png" />
+  </ItemGroup>
 </Project>
